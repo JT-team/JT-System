@@ -1,0 +1,43 @@
+Run System at:2018-05-27 13:20:06
+[2018-05-27 13:20:08]:User want go up one folder.
+[2018-05-27 13:20:14]:User want to found what things is under the folder.
+
+Run System at:2018-05-27 13:21:24
+[2018-05-27 13:21:28]:User want to found what things is under the folder.
+[2018-05-27 13:21:33]:User want to found what things is under the folder.
+[2018-05-27 13:21:35]:User want go up one folder.
+[2018-05-27 13:21:38]:User want to found what things is under the folder.
+
+Run System at:2018-05-27 13:31:44
+[2018-05-27 13:31:46]:User want to found what things is under the folder.
+
+Run System at:2018-05-27 13:32:49
+
+Run System at:2018-05-27 13:33:06
+[2018-05-27 13:33:07]:User want to found what things is under the folder.
+[2018-05-27 13:33:10]:User want to exit.
+
+Run System at:2018-05-27 13:35:25
+[2018-05-27 13:35:22]:User wants to have some help.
+[2018-05-27 13:35:40]:User wants to found what things is under the folder.
+
+Run System at:2018-05-27 13:36:47
+[2018-05-27 13:36:48]:User wants go up one folder.
+[2018-05-27 13:36:50]:User wants go up one folder.
+[2018-05-27 13:36:55]:User wants to found what things is under the folder.
+[2018-05-27 13:37:03]:User wants go down to bin folder.
+
+Run System at:2018-05-27 13:39:23
+[2018-05-27 13:39:24]:User wants go up one folder.
+[2018-05-27 13:39:26]:User wants go down to bin folder.
+
+Run System at:2018-05-27 13:41:12
+
+Run System at:2018-05-27 13:41:39
+[2018-05-27 13:41:41]:User wants to found what things is under the folder.
+[2018-05-27 13:41:42]:User wants go up one folder.
+[2018-05-27 13:41:44]:User wants go down to bin folder.
+
+Run System at:2018-05-27 13:43:39
+[2018-05-27 13:43:41]:User wants go up one folder.
+[2018-05-27 13:43:42]:User wants go down to bin folder.
