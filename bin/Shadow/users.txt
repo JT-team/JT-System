@@ -1,7 +1,0 @@
-User:
-    Name:Olycream
-    Password:
-    Age:
-    Email:
-    Country:
-    City:
